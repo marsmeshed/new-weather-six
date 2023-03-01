@@ -13,7 +13,8 @@ No special installation required!
 To use this project simply open it via Live-Browser Extension.
 
 Mockup Image:
-  ![Screenshot (21)](https://user-images.githubusercontent.com/112605303/222269790-9268597a-5a14-4208-84e6-9d847dbe8f74.png)
+  ![Screenshot (22)](https://user-images.githubusercontent.com/112605303/222270093-4b46c6e3-dea7-42f0-9812-7c840a3ad66e.png)
+
 
 ## Questions
 
